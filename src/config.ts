@@ -1,0 +1,1 @@
+export let apiURL = 'https://jsonplaceholder.typicode.com';
